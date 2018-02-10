@@ -13,6 +13,7 @@ export default class UILib extends Component {
                     <Button text70 white background-orange30 label="Login"/>
                     <Button link text70 orange30 label="Sign Up" marginT-20/>
                 </View>
+                <Text red background-orange40>hwgwhgfhw</Text>
 
             </View>
         );
